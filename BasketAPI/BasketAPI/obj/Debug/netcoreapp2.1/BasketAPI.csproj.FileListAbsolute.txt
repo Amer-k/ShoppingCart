@@ -1,0 +1,14 @@
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\bin\Debug\netcoreapp2.1\BasketAPI.deps.json
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\bin\Debug\netcoreapp2.1\BasketAPI.runtimeconfig.json
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\bin\Debug\netcoreapp2.1\BasketAPI.runtimeconfig.dev.json
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\bin\Debug\netcoreapp2.1\BasketAPI.dll
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\bin\Debug\netcoreapp2.1\BasketAPI.pdb
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.csprojAssemblyReference.cache
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.RazorAssemblyInfo.cache
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.RazorAssemblyInfo.cs
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.AssemblyInfoInputs.cache
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.AssemblyInfo.cs
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.dll
+C:\Users\Gon_x\source\repos\BasketAPI\BasketAPI\obj\Debug\netcoreapp2.1\BasketAPI.pdb
